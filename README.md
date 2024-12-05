@@ -21,4 +21,11 @@ Challenge LiterAlura - Biblioteca online
 - `5 - Listar livros em determinado idioma`: Quatro idiomas que você pode realizar a busca. Espanhol, inglês, francês e português
 - `6 - Listar os 10 livros mais baixados`: Listar os 10 livros mais baixados no banco de dados
 - `0 - Sair`: Sair da aplicação
+<<<<<<< HEAD
 >>>>>>> 8dbf8bb (Create README.md)
+=======
+
+<p align="center">
+<img src="https://github.com/MarciaAlura/LiterAlura/blob/master/badge%20literalura.png"/>
+</p>
+>>>>>>> 6aba876 (Update README.md)
